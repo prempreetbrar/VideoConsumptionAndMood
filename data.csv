@@ -1,0 +1,283 @@
+Collector,Day of Week,Video Content Type,Intentionality,Duration (min),Current Activity Before Viewing,Mood Before (Category),Mood Before (Rating),Mood After (Category),Mood After (Rating),Physical Location,Viewing Device,Proximity of Device
+Liana,Sunday,TV/Web Show,Unintentional,40,Cooking,Tense,50,Tense,50,Home,TV,Social
+Liana,Sunday,TV/Web Show,Unintentional,40,Cooking,Happy,70,Happy,60,Home,TV,Social
+Liana,Sunday,Medium Video,Unintentional,15,Cleaning,Happy,60,Happy,70,Home,Phone,Intimate
+Liana,Sunday,TV/Web Show,Unintentional,40,Relaxing,Happy,70,Happy,70,Home,TV,Social
+Liana,Monday,Long Video,Intentional,55,School,Tired,20,Happy,40,Home,iPad,Personal
+Liana,Monday,Medium Video,Unintentional,125,School,Tired,30,Tired,25,Home,iPad,Personal
+Liana,Monday,Long Video,Unintentional,40,School,Tense,40,Afraid,60,Transit,Phone,Intimate
+Liana,Monday,Medium Video,Unintentional,150,Travel,Afraid,60,Afraid,60,Home,Phone,Intimate
+Liana,Tuesday,Medium Video,Unintentional,120,Getting Ready,Tired,50,Tired,50,Home,Phone,Personal
+Liana,Tuesday,Live Stream,Intentional,10,School,Tense,20,Tense,20,Home,iPad,Personal
+Liana,Tuesday,Medium Video,Unintentional,50,School,Tense,30,Angry,40,Home,Phone,Intimate
+Liana,Tuesday,Live Stream,Intentional,75,Capstone,Confused,60,Tense,50,Home,iPad,Personal
+Liana,Tuesday,Medium Video,Unintentional,90,School,Tense,40,Tired,60,Home,Phone,Personal
+Liana,Tuesday,TV/Web Show,Intentional,120,Cooking,Sad,60,Happy,50,Home,TV,Social
+Liana,Tuesday,Medium Video,Unintentional,15,Shower,Tired,70,Tired,80,Home,Phone,Intimate
+Liana,Wednesday,Long Video,Intentional,60,Sleeping,Sad,30,Sad,30,Home,Phone,Personal
+Liana,Wednesday,Medium Video,Unintentional,80,Eating,Tired,50,Tired,50,Home,Phone,Personal
+Liana,Wednesday,Medium Video,Unintentional,30,Vaccination,Tense,60,Happy,20,School,Phone,Intimate
+Liana,Wednesday,Medium Video,Unintentional,50,School,Happy,50,Happy,50,Home,Phone,Personal
+Liana,Wednesday,TV/Web Show,Unintentional,30,Cooking,Energetic,60,Energetic,70,Home,TV,Social
+Liana,Wednesday,Social Media Clip,Intentional,10,Gym,Tired,70,Happy,50,Home,Phone,Social
+Liana,Wednesday,TV/Web Show,Intentional,20,Shower,Tired,60,Tired,60,Home,TV,Social
+Liana,Wednesday,Movie,Intentional,60,TV,Tired,70,Tired,70,Home,TV,Social
+Liana,Thursday,Long Video,Unintentional,40,School,Angry,30,Angry,30,School,Phone,Intimate
+Liana,Thursday,Long Video,Intentional,30,Transit,Angry,80,Angry,50,Home,Phone,Intimate
+Liana,Thursday,Medium Video,Unintentional,90,School,Angry,70,Angry,70,Home,Phone,Personal
+Liana,Thursday,Movie,Unintentional,30,School,Angry,60,Angry,60,Home,TV,Social
+Liana,Thursday,TV/Web Show,Intentional,60,Cooking,Tired,50,Tired,50,Home,TV,Social
+Liana,Thursday,Social Media Clip,Intentional,30,Showering,Happy,50,Happy,50,Home,Phone,Social
+Liana,Friday,Medium Video,Unintentional,40,Sleeping,Happy,30,Happy,50,Home,iPad,Personal
+Liana,Friday,Long Video,Intentional,75,School,Tense,20,Tense,20,Home,iPad,Personal
+Liana,Friday,Medium Video,Unintentional,45,School,Happy,60,Happy,60,Home,iPad,Personal
+Liana,Friday,Long Video,Unintentional,65,Lunch,Happy,50,Happy,40,Home,iPad,Personal
+Liana,Friday,Live Stream,Intentional,60,School,Angry,40,Confused,70,Home,iPad,Personal
+Liana,Friday,Medium Video,Unintentional,120,School,Confused,50,Energetic,50,Home,iPad,Personal
+Liana,Friday,Broadcast,Unintentional,30,Cleaning,Happy,70,Happy,80,Home,TV,Social
+Liana,Friday,Medium Video,Intentional,25,Cleaning,Happy,60,Happy,60,Home,TV,Social
+Liana,Friday,Social Media Clip,Intentional,35,Gym,Happy,60,Happy,80,Home,Phone,Social
+Liana,Saturday,Medium Video,Unintentional,40,Sleeping,Happy,40,Happy,40,Home,TV,Social
+Liana,Saturday,Medium Video,Intentional,20,Breakfast,Happy,40,Happy,40,Home,Phone,Intimate
+Liana,Saturday,Short Video,Intentional,14,Watching a Video,Happy,40,Happy,40,Home,Phone,Intimate
+Liana,Saturday,TV/Web Show,Unintentional,40,Cooking,Happy,30,Happy,40,Home,TV,Social
+Liana,Saturday,Movie,Intentional,150,Eating,Happy,50,Happy,80,Theatre,Theatre,Public
+Liana,Saturday,TV/Web Show,Intentional,40,Driving,Happy,60,Happy,60,Home,TV,Social
+Amir,Sunday,Social Media Clip,Unintentional,30,Sleeping,Tired,12,Energetic,30,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Intentional,10,Schoolwork,Energetic,23,Energetic,23,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Unintentional,5,Schoolwork,Tense,28,Happy,14,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Intentional,10,Lunch,Happy,40,Happy,28,Home ,Phone,Intimate
+Amir,Sunday,Short Video,Unintentional,10,Previous Session,Happy,28,Angry,33,Home,TV,Social
+Amir,Sunday,Social Media Clip,Unintentional,1,Schoolwork,Confused,12,Happy,23,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Unintentional,5,Schoolwork,Happy,26,Happy,35,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Unintentional,5,Schoolwork,Confused,14,Tense,23,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Intentional,15,Schoolwork,Happy,67,Happy,54,Home,Phone,Intimate
+Amir,Sunday,TV/Web Show,Intentional,40,Previous Session,Happy,54,Tired,26,Home,Phone,Intimate
+Amir,Sunday,TV/Web Show,Intentional,80,Dinner,Happy,32,Tense,12,Home,Phone,Intimate
+Amir,Sunday,Social Media Clip,Unintentional,10,Schoolwork,Energetic,14,Energetic,14,Home,Phone,Intimate
+Amir,Sunday,Short Video,Intentional,8,Reading,Tired,8,Happy,42,Home,Phone,Intimate
+Amir,Sunday,Movie,Intentional,90,Skyping Mother,Happy,40,Tired,56,Home,Phone,Intimate
+Amir,Monday,TV/Web Show,Intentional,30,Breakfast,Energetic,36,Energetic,36,Home,TV,Social
+Amir,Monday,Social Media Clip,Unintentional,15,Previous Session,Energetic,36,Happy,23,Home,Phone,Intimate
+Amir,Monday,Short Video,Intentional,6,Schoolwork,Energetic,34,Sad,36,Home,Phone,Intimate
+Amir,Monday,TV/Web Show,Intentional,60,Lunch,Tired,13,Happy,24,Home,TV,Social
+Amir,Monday,Social Media Clip,Intentional,30,Dinner,Tired,65,Tired,32,Home,Phone,Intimate
+Amir,Monday,Medium Video,Intentional,40,Getting a little snack,Energetic,23,Energetic,23,Home,Phone,Intimate
+Amir,Monday,Social Media Clip,Intentional,30,Skyping Sister,Happy,16,Happy,16,Home,Phone,Intimate
+Amir,Monday,Short Video,Intentional,8,Online Shopping,Tense,31,Tired,14,Home,Phone,Intimate
+Amir,Monday,Movie,Intentional,15,Brushing teeth,Tired,25,Confused,28,Home,Phone,Intimate
+Amir,Monday,Short Video,Intentional,40,Previous Session,Confused,28,Happy,16,Home,Phone ,Intimate
+Amir,Monday,Social Media Clip,Intentional,30,Previous Session,Happy,16,Tired,45,Home,Phone,Intimate
+Amir,Tuesday,TV/Web Show,Intentional,40,Breakfast,Energetic,47,Happy,21,Home,TV,Social
+Amir,Tuesday,Social Media Clip,Intentional,15,Previous Session,Happy,21,Happy,43,Home,Phone,Intimate
+Amir,Tuesday,Short Video,Unintentional,15,Schoolwork,Tense,23,Sad,49,Home,Phone,Intimate
+Amir,Tuesday,TV/Web Show,Intentional,40,Lunch,Tired,6,Energetic,34,Home,TV,Social
+Amir,Tuesday,Social Media Clip,Intentional,25,Schoolwork,Tired,46,Happy,33,Home,Phone,Intimate
+Amir,Tuesday,Short Video,Unintentional,8,Previous Session,Happy,33,Tense,12,Home,Phone,Intimate
+Amir,Tuesday,TV/Web Show,Intentional,60,Dinner,Tired,17,Energetic,35,Home,TV,Social
+Amir,Tuesday,Social Media Clip,Intentional,90,Schoolwork,Happy,24,Tired,31,Home,Phone,Intimate
+Amir,Tuesday,TV/Web Show,Intentional,50,Previous Session,Tired,31,Tired,27,Home,Phone,Intimate
+Amir,Tuesday,Short Video,Intentional,8,Previous Session,Tired,27,Happy,12,Home,Phone,Intimate
+Amir,Tuesday,Short Video,Intentional,15,Skyping Mother,Happy,23,Tired,14,Home,Phone,Intimate
+Amir,Tuesday,Movie,Intentional,90,Previous Session,Tired,14,Tired,57,Home,Phone,Intimate
+Amir,Wednesday,TV/Web Show,Intentional,45,Breakfast,Tired,14,Energetic,35,Home,TV,Social
+Amir,Wednesday,Social Media Clip,Unintentional,20,Previous Session,Energetic,35,Happy,25,Home,Phone,Intimate
+Amir,Wednesday,Social Media Clip,Intentional,15,Schoolwork,Tense,63,Energetic,48,Home,Phone,Intimate
+Amir,Wednesday,TV/Web Show,Intentional,60,Lunch,Energetic,19,Energetic,46,Home,TV,Social
+Amir,Wednesday,Social Media Clip,Intentional,5,Schoolwork,Tired,38,Energetic,23,Home,Phone,Intimate
+Amir,Wednesday,TV/Web Show,Intentional,20,Dinner,Tense ,29,Energetic,37,Home,TV,Social
+Amir,Wednesday,Social Media Clip,Intentional,60,Previous Session,Energetic,37,Happy,23,Home,Phone,Intimate
+Amir,Wednesday,TV/Web Show,Intentional,25,Trying on clothes,Happy,47,Happy,36,Home,TV,Social
+Amir,Wednesday,Medium Video,Intentional,20,Brushing teeth,Tired,12,Tense,28,Home,Phone,Intimate
+Amir,Wednesday,Live Stream,Intentional,90,Previous Session,Tense,28,Tired,56,Home,Phone,Intimate
+Amir,Wednesday,Social Media Clip,Intentional,30,Previous Session,Tired,56,Tired,79,Home,Phone,Intimate
+Amir,Thursday,TV/Web Show,Intentional,20,Breakfast,Tired,26,Energetic,47,Home,TV,Social
+Amir,Thursday,TV/Web Show,Intentional,40,Lunch,Tense,25,Tense,12,Home,TV,Social
+Amir,Thursday,TV/Web Show,Unintentional,20,Trying on costume,Happy,24,Happy,24,Home,TV,Social
+Amir,Thursday,TV/Web Show,Intentional,40,Dinner,Energetic,34,Energetic,34,Home,TV,Social
+Amir,Thursday,TV/Web Show,Intentional,60,Studying,Tired,45,Sad,24,Home,Phone,Intimate
+Amir,Thursday,Short Video,Intentional,8,Staring at a dude in my yard,Angry,54,Happy,38,Home,Phone,Intimate
+Amir,Thursday,TV/Web Show,Intentional,60,Previous Session,Happy,38,Tired,18,Home,Phone,Intimate
+Amir,Thursday,Short Video,Intentional,10,Previous Session,Tired,18,Tired,37,Home,Phone,Intimate
+Amir,Thursday,Social Media Clip,Intentional,20,Previous Session,Tired,37,Tired,79,Home,Phone,Intimate
+Amir,Friday,TV/Web Show,Intentional,20,Breakfast,Tired,12,Energetic,45,Home,TV,Social
+Amir,Friday,Social Media Clip,Unintentional,10,Previous Session,Energetic,45,Energetic,45,Home,Phone,Intimate
+Amir,Friday,Social Media Clip,Unintentional,25,Writing Quiz,Happy,12,Energetic,35,Home,Phone,Intimate
+Amir,Friday,TV/Web Show,Intentional,20,Previous Session,Energetic,35,Energetic,30,Home,TV,Social
+Amir,Friday,Social Media Clip,Unintentional,15,Driving,Tense,23,Happy,49,School,Phone,Intimate
+Amir,Friday,Social Media Clip,Unintentional,15,Lunch,Tense,45,Energetic,26,School,Phone,Intimate
+Amir,Friday,Social Media Clip,Intentional,15,Driving,Afraid,34,Tense,22,Home,Phone,Intimate
+Amir,Friday,Social Media Clip,Intentional,30,Fixing server issues,Confused,77,Happy,34,Home,Phone,Intimate
+Amir,Friday,TV/Web Show,Intentional,50,Previous Session,Happy,34,Tired,11,Home,Phone,Intimate
+Amir,Friday,Movie,Intentional,110,Previous Session,Tired,11,Angry,99,Home,Laptop,Personal
+Amir,Saturday,Social Media Clip,Intentional,30,Picking Mom up from airport,Tired,87,Tired,56,Home,Phone,Intimate
+Amir,Saturday,Social Media Clip,Intentional,30,Sleeping,Tired,22,Energetic,41,Home,Phone,Intimate
+Amir,Saturday,Medium Video,Intentional,40,Studying,Afraid,23,Tired,33,Home,Phone,Intimate
+Amir,Saturday,Social Media Clip,Unintentional,20,Making Dinner,Tired,33,Happy,28,Home,Phone,Intimate
+Amir,Saturday,Movie,Intentional,90,Drinking Alcohol,Sad,65,Tired,78,Peter's,TV,Public
+Steven,Sunday,Social Media Clip,Unintentional,20,Sleeping,Tired,65,Tired,30,Home,Phone,Personal
+Steven,Sunday,Medium Video,Intentional,48,Eating,Energetic,20,Happy,35,Home,Laptop,Personal
+Steven,Sunday,Social Media Clip,Intentional,15,Studying,Happy,35,Energetic,50,Home,Phone,intimate
+Steven,Sunday,Medium Video,Intentional,32,Watching tiktok,Energetic,50,Tired,20,Home,Laptop,Intimate
+Steven,Sunday,Social Media Clip,Unintentional,7,Gaming,Tense,10,Angry,10,Home,Phone,Intimate
+Steven,Sunday,Social Media Clip,Unintentional,2,School work,Happy,40,Angry,3,Home,Phone,Intimate
+Steven,Sunday,Medium Video,Unintentional,100,School work,Tired,30,Tired,70,Home,Laptop,Personal
+Steven,Monday,Social Media Clip,Unintentional,35,Sleeping,Tired,20,Energetic,40,Home,Phone,Personal
+Steven,Monday,Social Media Clip,Unintentional,30,nap,Tired,30,Tired,60,Home,Phone,Intimate
+Steven,Monday,Movie,Intentional,104,Studying,Happy,55,Happy,83,Home,Laptop,Intimate
+Steven,Monday,Social Media Clip,Intentional,8,Gaming,Happy,65,Happy,65,Home,Phone,Intimate
+Steven,Monday,Social Media Clip,Intentional,16,Gaming,Tense,40,Tense,30,Home,Phone,Intimate
+Steven,Tuesday,Social Media Clip,Unintentional,85,Studying,Tired,80,Tired,50,Home,Phone,Intimate
+Steven,Tuesday,Long Video,Intentional,50,Scrolling tiktok,Tired,50,Tired,100,Home,Phone,Intimate
+Steven,Tuesday,Social Media Clip,Unintentional,37,Sleeping,Tired,70,Tired,80,Home,Phone,Personal
+Steven,Tuesday,Medium Video,Intentional,13,Eating,Tired,30,Happy,60,Home,Phone,Intimate
+Steven,Tuesday,Social Media Clip,Unintentional,23,Studying,Tense,60,Confused,30,Home,Phone,Intimate
+Steven,Tuesday,Long Video,Intentional,72,Scrolling,Confused,30,Tense,70,Home,Laptop,Intimate
+Steven,Tuesday,Long Video,Intentional,94,Strolling around the house,Energetic,45,Tired,80,Home,Laptop,Personal
+Steven,Tuesday,Short Video,Intentional,15,Eating,Happy,60,Energetic,40,Home,Phone,Intimate
+Steven,Tuesday,Social Media Clip,Unintentional,6,Workout,Tense,80,Tense,65,Gym,Phone,Intimate
+Steven,Tuesday,Social Media Clip,Intentional,25,Eating,Tired,40,Happy,40,Home,Phone,Intimate
+Steven,Wednesday,Long Video,Intentional,50,Gaming,Tired,60,Tired,90,Home,Phone,Intimate
+Steven,Wednesday,Social Media Clip,Unintentional,70,Sleeping,Tired,30,Energetic,40,Home,Phone,Personal
+Steven,Wednesday,Medium Video,Intentional,20,Eating,Happy,60,Happy,60,Home,Phone,Intimate
+Steven,Wednesday,Social Media Clip,Unintentional,52,Studying,Tense,40,Tired,45,Home,Phone,intimate
+Steven,Wednesday,Medium Video,Intentional,14,Eating,Happy,30,Energetic,55,Home,Phone,Intimate
+Steven,Wednesday,Social Media Clip,Unintentional,43,watching youtube AFter eat,Energetic,55,Tired,50,Home,Phone,Intimate
+Steven,Wednesday,Social Media Clip,Intentional,16,Studying,Tense,40,Happy,50,Home,Phone,Intimate
+Steven,Wednesday,Long Video,Intentional,64,Studying,Tired ,30,Tense,60,Home,Laptop,Personal
+Steven,Wednesday,Social Media Clip,Intentional,6,Strolling around the house,Confused,60,Energetic,40,Home,Phone,Intimate
+Steven,Thursday,Social Media Clip,Unintentional,80,Gaming,Tense,45,Tired,60,Home,Phone,Intimate
+Steven,Thursday,Short Video,Intentional,13,Scrolling tiktok,Tired,60,Tired,95,Home,Phone,Intimate
+Steven,Thursday,Long Video,Intentional,7,Sitting in lecture,Confused,20,Energetic,45,School,Phone,Intimate
+Steven,Thursday,Movie,Intentional,38,Eating,Happy ,30,Happy,65,School,Phone,Intimate
+Steven,Thursday,Movie,Intentional,54,Studying,Tense,70,Tired,40,School,Phone,Intimate
+Steven,Thursday,Social Media Clip,Unintentional,19,Studying,Tense,80,Tired,30,School,Phone,Intimate
+Steven,Thursday,Long Video,Intentional,43,Eating,Tired ,45,Happy,60,Home,Phone,Personal
+Steven,Thursday,Social Media Clip,Unintentional,10,Gaming,Tense,35,Happy,45,Home,Phone,Intimate
+Steven,Friday,Social Media Clip,Unintentional,72,Brush teeth,Tired,20,Tired,90,Home,Phone,Intimate
+Steven,Friday,Social Media Clip,Intentional,109,Sleeping,Tired,30,Tired,50,Home,Phone,Personal
+Steven,Friday,Movie,Intentional,32,Eatiing,Happy,20,Energetic,45,Home,Phone,Intimate
+Steven,Friday,Long Video,Intentional,53,Studying,Tense,60,Tense,40,School,Laptop,Intimate
+Steven,Friday,Long Video,Unintentional,23,Studying,Tense,20,Energetic,65,School,Laptop,Intimate
+Steven,Friday,Social Media Clip,Unintentional,4,Studying,Energetic,30,Energetic,30,School,Phone,Intimate
+Steven,Friday,Social Media Clip,Intentional,1,Gyming,Energetic,85,Energetic,85,Gym,Phone,Intimate
+Steven,Friday,Movie,Intentional,80,Eating,Tired,50,Happy,65,Home,Phone,Intimate
+Steven,Friday,Social Media Clip,Intentional,13,Gaming,Happy,50,Happy,70,Home,Phone,Intimate
+Steven,Saturday,Social Media Clip,Intentional,93,Sleeping,Tired,30,Tired,70,Home,Phone,Personal
+Steven,Saturday,Movie,Intentional,100,Studying,Tense ,80,Happy,70,Home,TV,Public
+Steven,Saturday,Long Video,Intentional,40,Building workout equipment,Confused,40,Tense,90,Home,Laptop,Personal
+Steven,Saturday,Short Video,Intentional,14,Eating,Tense,90,Energetic,70,Home,Phone,Intimate
+Steven,Saturday,Long Video,Intentional,90,Building workout equipment,Energetic,70,Tense,100,Home,Laptop,Personal
+Steven,Saturday,Social Media Clip,Unintentional,7,Gaming,Tense,40,Happy,50,Home,Phone,Intimate
+Prempreet,Sunday,Social Media Clip,Unintentional,12,Studying,Tense,65,Tense,55,Home,Laptop,Intimate
+Prempreet,Sunday,Social Media Clip,Unintentional,3,Studying,Tense,55,Tense,55,Home,Laptop,Intimate
+Prempreet,Sunday,Short Video,Unintentional,8,Studying,Tense,65,Tense,65,Home,Laptop,Intimate
+Prempreet,Sunday,Social Media Clip,Unintentional,0,Studying,Tense,55,Tense,55,Home,Laptop,Intimate
+Prempreet,Sunday,Social Media Clip,Unintentional,4,Studying,Tired,55,Tense,55,Home,Phone,Social
+Prempreet,Sunday,Medium Video,Intentional,16,Studying,Tense,75,Tense,65,Home,Laptop,Intimate
+Prempreet,Sunday,Social Media Clip,Unintentional,6,Dinner,Happy,55,Tense,55,Home,Phone,Social
+Prempreet,Sunday,TV/Web Show,Intentional,60,Dinner,Tense,55,Energetic,85,Home,TV,Social
+Prempreet,Sunday,Social Media Clip,Unintentional,6,Studying,Tense,85,Tense,75,Home,Laptop,Intimate
+Prempreet,Sunday,Social Media Clip,Unintentional,4,Studying,Tired,95,Tired,100,Home,Phone,Intimate
+Prempreet,Monday,Social Media Clip,Intentional,0,Studying,Happy,50,Happy,50,Library,Laptop,Intimate
+Prempreet,Monday,Broadcast,Intentional,11,Studying,Happy,50,Confused,95,Library,Laptop,Intimate
+Prempreet,Monday,Medium Video,Unintentional,6,Studying,Tense,55,Tense,55,Library,Laptop,Intimate
+Prempreet,Monday,Social Media Clip,Unintentional,18,Studying,Tired,75,Tense,65,Library,Phone,Social
+Prempreet,Monday,Social Media Clip,Unintentional,11,Studying,Tense,55,Tense,35,Library,Phone,Social
+Prempreet,Monday,Long Video,Intentional,42,Exercising,Tense,65,Happy,65,Home,Phone,Public
+Prempreet,Monday,TV/Web Show,Unintentional,11,Dinner,Happy,65,Happy,75,Home,TV,Social
+Prempreet,Monday,Social Media Clip,Unintentional,12,Showering,Happy,75,Happy,65,Home,Phone,Social
+Prempreet,Monday,Medium Video,Intentional,20,Studying,Tired,85,Tired,95,Home,Laptop,Intimate
+Prempreet,Monday,Social Media Clip,Unintentional,4,Bathroom Break,Tired,95,Tense,85,Home,Phone,Personal
+Prempreet,Tuesday,Social Media Clip,Unintentional,5,Texting,Confused,55,Tense,55,Home,Phone,Intimate
+Prempreet,Tuesday,Social Media Clip,Unintentional,22,Studying,Tense,55,Tense ,50,Library,Phone,Personal
+Prempreet,Tuesday,Short Video,Unintentional,4,Studying,Tense,55,Tense,60,Library,Laptop,Intimate
+Prempreet,Tuesday,Social Media Clip,Unintentional,11,Studying,Afraid,44,Afraid,35,Library,Phone,Social
+Prempreet,Tuesday,TV/Web Show,Intentional,22,Dinner,Tense,35,Happy,45,Home,TV,Public
+Prempreet,Tuesday,Social Media Clip,Unintentional,7,Bathroom Break,Sad,35,Tired,40,Home,Phone,Social
+Prempreet,Tuesday,Social Media Clip,Unintentional,2,Chatting with Family,Energetic,75,Energetic,70,Home,Phone,Intimate
+Prempreet,Wednesday,Medium Video,Intentional,12,Studying,Afraid,75,Afraid,55,Library,Phone,Intimate
+Prempreet,Wednesday,Social Media Clip,Unintentional,14,Studying,Tense,55,Happy,65,Library,Phone,Social
+Prempreet,Wednesday,Social Media Clip,Unintentional,1,Studying,Confused,65,Confused,65,Library,Phone,Social
+Prempreet,Wednesday,Social Media Clip,Unintentional,8,Lunch,Tired,65,Energetic,65,Library,Laptop,Intimate
+Prempreet,Wednesday,Social Media Clip,Unintentional,16,Texting,Angry,95,Angry,75,Library,Phone,Intimate
+Prempreet,Wednesday,Social Media Clip,Unintentional,9,Studying,Afraid,55,Afraid,45,Library,Phone,Personal
+Prempreet,Wednesday,Medium Video,Intentional,12,Snack Break,Tired,75,Energetic,65,Home,TV,Public
+Prempreet,Wednesday,Long Video,Intentional,46,Exercise,Tense,75,Tired,65,Home,Phone,Public
+Prempreet,Wednesday,Social Media Clip,Unintentional,4,Bathroom Break,Tired,85,Tired,85,Home,Phone,Intimate
+Prempreet,Thursday,Long Video,Intentional,31,Commuting,Tired,85,Tired,80,Car,Laptop,Intimate
+Prempreet,Thursday,Short Video,Unintentional,6,Studying,Afraid,75,Tense,65,Library,Laptop,Intimate
+Prempreet,Thursday,Broadcast,Intentional,36,Lunch,Tired,85,Energetic,75,Library,Laptop,Intimate
+Prempreet,Thursday,Social Media Clip,Unintentional,8,Studying,Tense,75,Tense,65,Library,Phone,Personal
+Prempreet,Thursday,Social Media Clip,Unintentional,4,Studying,Tense,65,Tense,55,Library,Phone,Personal
+Prempreet,Thursday,Social Media Clip,Unintentional,6,Studying,Sad,65,Sad,55,Library,Phone,Personal
+Prempreet,Thursday,TV/Web Show,Intentional,33,Dinner,Energetic,75,Energetic,85,Home,TV,Public
+Prempreet,Thursday,Long Video,Intentional,40,Exercise,Energetic,85,Tired,75,Home,Phone,Public
+Prempreet,Friday,Short Video,Intentional,2,Breakfast,Tired,65,Energetic,75,Home,Phone,Social
+Prempreet,Friday,Social Media Clip,Unintentional,6,Studying,Tense,65,Tense,60,Home,Phone,Personal
+Prempreet,Friday,Social Media Clip,Unintentional,8,Studying,Tired,65,Tired,65,Home,Phone,Personal
+Prempreet,Friday,Medium Video,Intentional,11,Studying,Tense,75,Happy,55,Home,Laptop,Intimate
+Prempreet,Friday,Long Video,Intentional,33,Lunch,Tense,75,Happy,65,Home,TV,Social
+Prempreet,Friday,Social Media Clip,Unintentional,6,Studying,Confused,65,Confused,65,Home,Phone,Personal
+Prempreet,Friday,Social Media Clip,Unintentional,8,Studying,Tense,75,Tense,70,Home,Phone,Personal
+Prempreet,Friday,TV/Web Show,Intentional,33,Dinner,Tense,80,Happy,70,Home,TV,Social
+Prempreet,Friday,Long Video,Intentional,40,Exercise,Energetic,80,Tired,70,Home,Phone,Public
+Prempreet,Saturday,Social Media Clip,Unintentional,6,Studying,Tense,80,Tense,75,Home,Phone,Personal
+Prempreet,Saturday,Social Media Clip,Unintentional,4,Studying,Happy,65,Happy,55,Home,Phone,Personal
+Prempreet,Saturday,TV/Web Show,Intentional,33,Lunch,Happy,55,Happy,65,Home,TV,Social
+Prempreet,Saturday,Social Media Clip,Unintentional,11,Studying,Tense,65,Tense,60,Home,Phone,Personal
+Prempreet,Saturday,Social Media Clip,Unintentional,7,Studying,Afraid,75,Afraid,85,Home,Phone,Personal
+Prempreet,Saturday,Social Media Clip,Unintentional,6,Studying,Tense,55,Tense,55,Home,Phone,Personal
+Prempreet,Saturday,Short Video,Unintentional,4,Bathroom Break,Afraid,65,Afraid,65,Home,Laptop,Intimate
+Prempreet,Saturday,TV/Web Show,Intentional,35,Dinner,Angry,95,Angry,75,Home,TV,Social
+Prempreet,Saturday,Long Video,Intentional,41,Exercise,Tense,75,Tired,55,Home,Phone,Public
+Gagan,Sunday,Short Video,Unintentional,40,Sleeping,Happy,50,Happy,50,Home,Phone,Intimate
+Gagan,Sunday,TV/Web Show,Intentional,30,Breakfast,Happy,50,Happy,50,Home,Phone,Intimate
+Gagan,Sunday,Movie,Intentional,120,Hanging with Friends,Happy,50,Happy,70,Movie Theatre,Theatre Screen,Public
+Gagan,Sunday,Short Video,Intentional,15,Voicecall with Friends,Happy,50,Happy,70,Home,Laptop,Intimate
+Gagan,Sunday,Short Video,Unintentional,30,Brushing Teeth,Tired,30,Tired,40,Home,Phone,Intimate
+Gagan,Monday,Short Video,Unintentional,30,Sleeping,Happy,50,Tense,40,Home,Phone,Intimate
+Gagan,Monday,TV/Web Show,Unintentional,60,Breakfast,Tense,40,Sad,60,Home,TV,Social
+Gagan,Monday,Live Stream,Intentional,15,Homework,Tired,65,Happy,40,Home,Desktop,Intimate
+Gagan,Monday,Long Video,Intentional,45,Relaxing,Happy,50,Confused ,70,Home,Desktop,Intimate
+Gagan,Monday,Short Video,Unintentional,45,Brushing Teeth,Tired ,80,Tired,100,Home,Phone,Intimate
+Gagan,Tuesday,Short Video,Unintentional,20,Sleeping,Tired,60,Energetic,35,Home,Phone,Intimate
+Gagan,Tuesday,TV/Web Show,Intentional,15,Showering,Energetic,50,Angry,40,Home,TV,Social
+Gagan,Tuesday,TV/Web Show,Intentional,60,Studying,Happy,30,Happy,30,Home,TV,Social
+Gagan,Tuesday,TV/Web Show,Intentional,25,Dinner,Happy,35,Happy,60,Home,Laptop,Personal
+Gagan,Tuesday,Live Stream,Intentional,10,Gaming,Happy,50,Happy,60,Home,Desktop,Intimate
+Gagan,Tuesday,Short Video,Unintentional,35,Brushing Teeth,Tired,50,Tired,60,Home,Phone,Intimate
+Gagan,Wednesday,Short Video,Unintentional,25,Sleeping,Tired,40,Tired,60,Home,Phone,Intimate
+Gagan,Wednesday,Social Media Clip,Unintentional,2,Browsing Reddit,Happy,40,Afraid,40,School,Phone,Intimate
+Gagan,Wednesday,Social Media Clip,Intentional,30,Studying,Energetic,30,Angry,40,School,Phone,Intimate
+Gagan,Wednesday,Short Video,Intentional,15,Studying,Tired,40,Tired,40,School,Phone,Intimate
+Gagan,Wednesday,TV/Web Show,Intentional,25,Dinner,Tired,50,Tired,50,School,Phone,Intimate
+Gagan,Wednesday,Short Video,Unintentional,30,Studying,Tired,45,Tired,45,School,Phone,Intimate
+Gagan,Wednesday,Social Media Clip,Intentional,10,Studying,Tense,20,Tense,30,School,Phone,Intimate
+Gagan,Wednesday,Short Video,Intentional,30,Brushing Teeth,Tired,40,Tired,40,Home,Phone,Intimate 
+Gagan,Thursday,Short Video,Intentional,15,Sleeping,Happy,40,Happy,40,Home,Phone,Intimate
+Gagan,Thursday,TV/Web Show,Intentional,20,Breakfast,Happy,40,Tense,50,Home,TV,Social
+Gagan,Thursday,Social Media Clip,Intentional,25,Commuting,Energetic,40,Energetic,50,Transit,Phone,Intimate
+Gagan,Thursday,Short Video,Unintentional,35,Studying,Happy,50,Sad,50,School,Phone,Intimate
+Gagan,Thursday,Short Video,Unintentional,10,Studying,Happy,50,Happy,50,School,Phone,Intimate
+Gagan,Thursday,Social Media Clip,Unintentional,25,Commuting,Tired,60,Tired,80,Transit,Phone,Intimate
+Gagan,Thursday,Medium Video,Intentional,40,Relaxing,Tired,80,Tired,50,Home,TV,Social
+Gagan,Thursday,Short Video,Intentional,10,Eating,Happy,30,Happy,35,Home,Phone,Intimate
+Gagan,Thursday,Short Video,Unintentional,5,Napping,Tired,20,Tired,15,Home,Phone,Intimate
+Gagan,Thursday,TV/Web Show,Intentional,45,Dinner,Happy,30,Happy,50,Home,TV,Social
+Gagan,Thursday,Live Stream,Intentional,30,Studying,Happy,30,Happy,40,Home,Desktop,Intimate
+Gagan,Thursday,Short Video,Intentional,15,Brushing Teeth,Tired,80,Tired,90,Home,Phone,Intimate
+Gagan,Friday,Short Video,Unintentional,10,Sleeping,Tired,60,Tired,55,Home,Phone,Intimate
+Gagan,Friday,Social Media Clip,Intentional,5,Walking to Class,Energetic,40,Energetic,40,School,Phone,Intimate
+Gagan,Friday,Social Media Clip,Unintentional,2,Working Out,Happy,60,Happy,60,Gym,Phone,Intimate
+Gagan,Friday,Short Video,Unintentional,35,Commuting,Tired,40,Tired,40,Transit,Phone,Intimate
+Gagan,Friday,TV/Web Show,Unintentional,10,Dinner,Tired,40,Tense,20,Home,TV,Social
+Gagan,Friday,Live Stream,Intentional,90,Studying,Tired,30,Tired,60,Home,Phone,Intimate
+Gagan,Friday,Short Video,Unintentional,15,Brushing Teeth,Happy,40,Happy,40,Home,Phone,Intimate
+Gagan,Saturday,Short Video,Unintentional,55,Sleeping,Tired,60,Tired,30,Home,Phone,Intimate
+Gagan,Saturday,Short Video,Unintentional,5,Commuting,Energetic,40,Energetic,40,Car,Phone,Intimate
+Gagan,Saturday,Medium Video,Intentional,35,Relaxing,Happy,50,Happy,50,Home,TV,Social
+Gagan,Saturday,Social Media Clip,Intentional,10,Relaxing,Happy,50,Happy,50,Home,Phone,Intimate
+Gagan,Saturday,Short Video,Unintentional,5,Dinner,Happy,60,Happy,70,Home,Phone,Intimate
+Gagan,Saturday,Live Stream,Intentional,20,Gaming,Happy,40,Happy,50,Home,Desktop,Intimate
+Gagan,Saturday,Short Video,Unintentional,35,Brushing Teeth,Tired,40,Tired,70,Home,Phone,Intimate
