@@ -22,7 +22,7 @@ reader can see that Liana had data points towards the end where she was happy. T
 to see how video content influenced mood.
 
 ## Filtering to See Certain Moods:
-![](gifs/Filter.gif)
+
 Another interaction technique we employed is "Filter". Filter is useful because it allows us to get insights on the moods we choose. 
 For example, if a group member wants to know if videos lead to them being less tense (to see if they are a good coping mechanism for the emotion), 
 they can go to the dropdown menu and select the Tense mood, and then examine the change in mood before and after. In the gif, you’d see that longer 
