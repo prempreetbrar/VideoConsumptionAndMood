@@ -68,33 +68,23 @@ our research question.
 
 ## Limitations/Design Choices
 
-- An external Processing library was used to show the filter menu
+- An external Processing library (controlP5) was used to show the filter menu.
 
 &nbsp;
 
 ## If you want to start up the project on your local machine:
 1. Download the code as a ZIP:
-
+![Download](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/0a6f2c96-1b3b-449d-b823-91e6d80f8a98)
 &nbsp;
 
-2. Open the .pde file:
-   
-![Open](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/1c6bad30-b4d7-4836-ae1e-f6c2f13fb8fa)
+2. Open the .pde file. When prompted, keep "VideoConsumptionAndMood-main" as the sketch folder:
+![Open](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/12cd7702-7f18-4666-86ee-0bf1fc02d9d2)
 &nbsp;
 
-3. When prompted, keep "SpaceTyping-main" as the sketch folder:
-   
-<img width="695" alt="Keep" src="https://github.com/prempreetbrar/SpaceTyping/assets/89614923/7e2aef0a-daca-4c2c-8be0-b75c6f406b40">
-
-&nbsp;
-&nbsp;
-4. Click the play button on the processing panel to start the sketch:
-   
-![Play](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/b0e8f9ff-e81d-4fab-8d21-c57a8ae47c39)
+3. Click the play button on the processing panel to start the sketch:
+![Play](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/68730272-ca0c-457c-9054-106f87ceb814)
 &nbsp;
 
-5. Begin entering mouse and keyboard input to see your constellations!
-   
-![Program](https://github.com/prempreetbrar/SpaceTyping/assets/89614923/21c14a5f-e4c9-4813-b96c-588886cb6aff)
-&nbsp;
+4. Have fun interacting with the visualization!
+![image](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/9ec08893-f401-4513-b5e6-eccb69e4f340)
 
