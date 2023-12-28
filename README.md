@@ -6,8 +6,7 @@ used the insight gained from this visualization to change my video consumption h
 Watch quick gif(s) and picture(s) of me interacting with it below:
 
 ## Overview:
-![](gifs/Overview.png)
-
+![image](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/9ec08893-f401-4513-b5e6-eccb69e4f340)
 The research question we chose to answer is: How does the type of video content and duration of session influence a change in mood?  
 In our visualization, we represented each data entry as its own rectangle. The width of a rectangle is the duration of the session 
 (which is one of our explanatory variables), the height is the intensity of the mood (in other words, its score from 1 to 100), and 
@@ -22,7 +21,7 @@ reader can see that Liana had data points towards the end where she was happy. T
 to see how video content influenced mood.
 
 ## Filtering to See Certain Moods:
-![](gifs/Filter.gif)
+![Filter](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/2db9caac-1826-4e95-840f-055364f4c8ff)
 Another interaction technique we employed is "Filter". Filter is useful because it allows us to get insights on the moods we choose. 
 For example, if a group member wants to know if videos lead to them being less tense (to see if they are a good coping mechanism for the emotion), 
 they can go to the dropdown menu and select the Tense mood, and then examine the change in mood before and after. In the gif, you’d see that longer 
@@ -30,21 +29,21 @@ session durations tend to reduce one’s tenseness, while shorter video sessions
 For example, when me (Prempreet) was tense, only my longer sessions seemed to change my mood.
 
 ## Details on Demand:
-![](gifs/Details.gif)
+![Details](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/d359cd47-81fa-4ae5-8b77-03d526161640)
 Our other explanatory variable (type of video content) can be seen by clicking on a rectangle and looking at its detail. This is useful because 
 it allows you to see WHAT types of video content influenced mood. For example, when our group was energetic, we saw a large change in our mood's 
 after watching a video. When clicking on the rectangles that changed in category, we saw that a good proportion of them were sessions 
 consisting of long videos and medium videos. From this, we could infer that long and medium videos lead to other moods overtaking energeticness.
 
 ## Toggle (Mood Before vs After):
-![](gifs/ToggleAngry.gif)
+![ToggleAngry](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/7218b51a-08a0-4be8-94bd-a0928ca4f6b9)
 Note that our research question is examining the CHANGE in mood. This is why we have TWO views; one is the mood BEFORE starting a session, 
 and the other is the mood AFTER finishing a session. Note that we have the same set of data, but with a different arrangement. 
 This is the "reconfiguration" interaction technique. For example, in the gif, one can see that when our group was angry, the duration of session had 
 little influence on our mood. 
 
 &nbsp;
-![](gifs/ToggleSad.gif)
+![ToggleSad](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/3174234f-d967-4ace-a9f0-83d400950d3e)
 On the other hand, in the gif, one can see that when our group was sad, video content had considerable influence in changing our mood category. 
 One can also look at the change in the height of the bars before and after to see how video content influences the intensity of our mood. 
 Reconfiguration is probably the most important part of this visualization, because it’s what allows us to see the CHANGE in our mood and answer 
