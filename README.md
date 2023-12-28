@@ -74,17 +74,21 @@ our research question.
 
 ## If you want to start up the project on your local machine:
 1. Download the code as a ZIP:
+&nbsp;
 ![Download](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/0a6f2c96-1b3b-449d-b823-91e6d80f8a98)
 &nbsp;
 
 2. Open the .pde file. When prompted, keep "VideoConsumptionAndMood-main" as the sketch folder:
+&nbsp;
 ![Open](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/12cd7702-7f18-4666-86ee-0bf1fc02d9d2)
 &nbsp;
 
 3. Click the play button on the processing panel to start the sketch:
+&nbsp;
 ![Play](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/68730272-ca0c-457c-9054-106f87ceb814)
 &nbsp;
 
 4. Have fun interacting with the visualization!
+&nbsp;
 ![image](https://github.com/prempreetbrar/VideoConsumptionAndMood/assets/89614923/9ec08893-f401-4513-b5e6-eccb69e4f340)
 
