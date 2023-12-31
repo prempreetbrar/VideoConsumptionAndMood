@@ -1,14 +1,3 @@
-/*
-Liana Goodman - 30089196
-Amir Abdrakmanov - 30085827
-Steven Susanto - 30073781
-Gagan Brar - 30068630
-Prempreet Brar - 30112576
-
-We are answering RQ1 - How does the type of video content and duration of 
-session influence a change in mood?
-*/
-
 //This .pde will not run until the controlP5 library is installed to your processing instance
 // This is very easy and can be done by going to Sketch -> Import Library -> Manage Libraries and searching for "controlP5" and pressing the install button
 
